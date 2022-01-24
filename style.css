@@ -1,0 +1,43 @@
+.btn-slider{
+    background-color: #FFFFFF;
+    color: #3F87F5;
+    border-radius: 1rem;
+}
+
+.margin-top{
+    margin-top: 7rem; 
+    margin-bottom: 7rem;
+}
+
+.margin-bottom{
+    margin-bottom: 7rem;
+}
+
+.card-3{
+    height: 400px; 
+    width: 325px; 
+    border-radius: 20px;
+    color: #FFFFFF;
+    background-color: #196be7b6;
+    
+}
+
+.card-shadow{
+    box-shadow: 0px 50px 10px -40px #196be7b6; 
+}
+
+.btn-card3{
+    width: 225px; 
+    height: 45px;
+    background-color: #FFFFFF;
+    color: #3F87F5;
+    
+}
+
+.btn-card{
+    width: 225px; 
+    height: 45px;
+    background-color: #f3d3e7a4;
+    color: #3F87F5
+    
+}
